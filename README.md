@@ -1,5 +1,4 @@
-To run the Expense Tracker
+To get started, run the following commands:
 
 npm install
-then
 npm start
