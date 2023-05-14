@@ -1,4 +1,4 @@
-To get started, run the following commands:
-
-npm install
-npm start
+# Installation
+Open a terminal of your choice and clone the project. Then run: 
+    npm install
+    npm start
